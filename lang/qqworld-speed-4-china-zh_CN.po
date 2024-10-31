@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QQworld Speed for China\n"
+"Report-Msgid-Bugs-To: http://www.qqworld.org\n"
+"POT-Creation-Date: 2018-11-15 11:01+0800\n"
+"PO-Revision-Date: 2018-11-15 11:01+0800\n"
+"Last-Translator: Michael Wang <admin@qqworld.org>\n"
+"Language-Team: QQWorld <admin@qqworld.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Generator: Poedit 2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: qqworld-speed4china.php:37 qqworld-speed4china.php:718
+#: qqworld-speed4china.php:726
+msgid "Michael Wang"
+msgstr "王晓骞"
+
+#: qqworld-speed4china.php:286
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: qqworld-speed4china.php:292
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: qqworld-speed4china.php:315 qqworld-speed4china.php:475
+msgid "Settings"
+msgstr "设置"
+
+#: qqworld-speed4china.php:325 qqworld-speed4china.php:465
+msgid "QQWorld Speed for China"
+msgstr "QQWorld加速中国版"
+
+#: qqworld-speed4china.php:466
+msgid ""
+"If your host is in china, you might need this plugin to make your website "
+"that running faster."
+msgstr "如果你的主机在中国，你可能需要这个插件使你的网站跑得更快。"
+
+#: qqworld-speed4china.php:476
+msgid "Other Products"
+msgstr "其他产品"
+
+#: qqworld-speed4china.php:477
+msgid "Contact"
+msgstr "联系方式"
+
+#: qqworld-speed4china.php:481
+msgid "Google Fonts"
+msgstr "谷歌字体"
+
+#: qqworld-speed4china.php:486
+msgid "Front-End"
+msgstr "前端"
+
+#: qqworld-speed4china.php:490 qqworld-speed4china.php:504
+#: qqworld-speed4china.php:523 qqworld-speed4china.php:618
+#: qqworld-speed4china.php:629 qqworld-speed4china.php:640
+#: qqworld-speed4china.php:651 qqworld-speed4china.php:663
+msgid "Enabled"
+msgstr "开启"
+
+#: qqworld-speed4china.php:490 qqworld-speed4china.php:504
+#: qqworld-speed4china.php:524 qqworld-speed4china.php:525
+#: qqworld-speed4china.php:619 qqworld-speed4china.php:630
+#: qqworld-speed4china.php:641 qqworld-speed4china.php:651
+msgid "(Speed up)"
+msgstr "（加速）"
+
+#: qqworld-speed4china.php:491 qqworld-speed4china.php:505
+msgid "Replace to"
+msgstr "替换成"
+
+#: qqworld-speed4china.php:492 qqworld-speed4china.php:506
+msgid "Such as: "
+msgstr "比如："
+
+#: qqworld-speed4china.php:493 qqworld-speed4china.php:507
+#: qqworld-speed4china.php:525 qqworld-speed4china.php:557
+#: qqworld-speed4china.php:619 qqworld-speed4china.php:630
+#: qqworld-speed4china.php:641 qqworld-speed4china.php:652
+#: qqworld-speed4china.php:664
+msgid "Disabled"
+msgstr "禁用"
+
+#: qqworld-speed4china.php:494 qqworld-speed4china.php:508
+msgid "Delete Google Font"
+msgstr "删除谷歌字体"
+
+#: qqworld-speed4china.php:500
+msgid "Admin Page"
+msgstr "后台管理页"
+
+#: qqworld-speed4china.php:514
+msgid "Gravatar"
+msgstr "全球通用头像"
+
+#: qqworld-speed4china.php:519
+msgid "Using Gravatar"
+msgstr "使用全球通用头像(Gravatar)"
+
+#: qqworld-speed4china.php:524
+msgid "V2ex CDN"
+msgstr ""
+
+#: qqworld-speed4china.php:531
+msgid "Local Avatar"
+msgstr "本地头像"
+
+#: qqworld-speed4china.php:544
+msgid "Insert Avatar"
+msgstr "插入头像"
+
+#: qqworld-speed4china.php:546
+msgid "Using Default Avatar"
+msgstr "使用默认头像"
+
+#: qqworld-speed4china.php:552
+msgid "Emoji"
+msgstr "Emoji表情"
+
+#: qqworld-speed4china.php:568
+msgid "Local Emoji"
+msgstr "本地Emoji表情"
+
+#: qqworld-speed4china.php:573
+msgid "Use local emoji image files."
+msgstr "使用本地Emoji表情图片。"
+
+#: qqworld-speed4china.php:579
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: qqworld-speed4china.php:584
+msgid "Remove Dashboard Widgets"
+msgstr "移除仪表盘小工具"
+
+#: qqworld-speed4china.php:590
+msgid "Quick Draft"
+msgstr ""
+
+#: qqworld-speed4china.php:591
+msgid "Plugins"
+msgstr ""
+
+#: qqworld-speed4china.php:592
+msgid "Recent Comments"
+msgstr "近期评论"
+
+#: qqworld-speed4china.php:593
+msgid "Recent Drafts"
+msgstr "近期草稿"
+
+#: qqworld-speed4china.php:594
+msgctxt "widgets"
+msgid "Primary"
+msgstr "主小工具区（Wordpress新闻）"
+
+#: qqworld-speed4china.php:595
+msgctxt "widgets"
+msgid "Secondary"
+msgstr "次小工具区"
+
+#: qqworld-speed4china.php:596
+msgctxt "widgets"
+msgid "Activity"
+msgstr "活动"
+
+#: qqworld-speed4china.php:597
+msgctxt "widgets"
+msgid "Right now"
+msgstr "概览"
+
+#: qqworld-speed4china.php:608
+msgid "Upgrade"
+msgstr "升级"
+
+#: qqworld-speed4china.php:609
+msgid "If you want to update, don't forget temporarily enable these options."
+msgstr "如果你想更新的时候，不要忘记临时开启这些选项。"
+
+#: qqworld-speed4china.php:614
+msgid "Auto Update Core"
+msgstr "自动检查升级核心"
+
+#: qqworld-speed4china.php:625
+msgid "Auto Update Plugins"
+msgstr "自动检查升级插件"
+
+#: qqworld-speed4china.php:636
+msgid "Auto Update Themes"
+msgstr "自动检查升级主题"
+
+#: qqworld-speed4china.php:647
+msgid "Advanced Speed Up"
+msgstr "高级加速"
+
+#: qqworld-speed4china.php:654
+msgid "If enabled this option, all update action will be disabled."
+msgstr "开启此项将禁止所有的更新动作 。"
+
+#: qqworld-speed4china.php:659
+msgid "Extend the Time of the Upgrade"
+msgstr "延长升级时间"
+
+#: qqworld-speed4china.php:666
+msgid "If enabled this option, will never timeout when upgrading."
+msgstr "开启此项，升级时永远不会超时。"
+
+#: qqworld-speed4china.php:676
+msgid "QQWorld Collector"
+msgstr "QQWorld收藏家"
+
+#: qqworld-speed4china.php:677
+msgid "Help you maintain the site to save a lot of time."
+msgstr "帮你维护网站节省大量的时间。"
+
+#: qqworld-speed4china.php:678 qqworld-speed4china.php:684
+#: qqworld-speed4china.php:690 qqworld-speed4china.php:696
+#: qqworld-speed4china.php:702 qqworld-speed4china.php:708
+msgid "View Details"
+msgstr "浏览详情"
+
+#: qqworld-speed4china.php:682
+msgid "QQWorld Checkout"
+msgstr "QQWorld收银台"
+
+#: qqworld-speed4china.php:683
+msgid "Support WeChat and Alipay desktop and mobile dual payment function."
+msgstr "支持微信和支付宝的桌面以及移动双支付功能。"
+
+#: qqworld-speed4china.php:688
+msgid "QQWorld Woocommerce Assistant"
+msgstr "QQWorld电子商务助手"
+
+#: qqworld-speed4china.php:689
+msgid "If you have a Chinese Woocommerce shop, you will like it."
+msgstr "如果你有个中文的Woocommerce网店，你会喜欢的。"
+
+#: qqworld-speed4china.php:694
+msgid "QQWorld Passport"
+msgstr "QQWorld通行证"
+
+#: qqworld-speed4china.php:695
+msgid "Support QQ, WeChat, Weibo login, it is important that free."
+msgstr "支持QQ、微信、微博登录，重要的是，免费。"
+
+#: qqworld-speed4china.php:700
+msgid "QQWorld Synchronizer"
+msgstr "QQWorld 同步器"
+
+#: qqworld-speed4china.php:701
+msgid ""
+"As a expansion of the QQWorld Passport which to provide a series of WeChat "
+"enhanced features, such as Native login."
+msgstr ""
+"作为QQWorld通行证的扩展，提供对微信的一系列加强功能，比如扫码登录等。"
+
+#: qqworld-speed4china.php:706
+msgid "QQWorld Mobile"
+msgstr "QQWorld移动"
+
+#: qqworld-speed4china.php:707
+msgid ""
+"As a expansion of the QQWorld Passport which to provide a series of mobile "
+"features, such as login via your china phone number."
+msgstr ""
+"作为QQWorld通行证的扩展，提供一些移动相关功能，比如通过中国的手机号码登录"
+"等。"
+
+#: qqworld-speed4china.php:717
+msgctxt "contact"
+msgid "Developer"
+msgstr "开发者"
+
+#: qqworld-speed4china.php:721
+msgid "Official Website"
+msgstr "官方网站"
+
+#: qqworld-speed4china.php:725
+msgid "Email"
+msgstr ""
+
+#: qqworld-speed4china.php:729
+msgid "Tencent QQ"
+msgstr "腾讯QQ"
+
+#: qqworld-speed4china.php:730
+#, php-format
+msgid "%s: "
+msgstr "%s："
+
+#: qqworld-speed4china.php:730
+msgid "QQ Group"
+msgstr "QQ群"
+
+#: qqworld-speed4china.php:733
+msgid "Wechat"
+msgstr "微信"
+
+#: qqworld-speed4china.php:735
+msgid "Please use the WeChat APP to scan the QR code."
+msgstr "请使用微信APP扫描二维码。"
+
+#: qqworld-speed4china.php:738
+msgid "Cellphone"
+msgstr "手机"
+
+#~ msgid "To"
+#~ msgstr "到"
+
+#~ msgid "Using 360 CDN"
+#~ msgstr "使用360公共资源库"
+
+#~ msgid "Fonts"
+#~ msgstr "字体"
+
+#~ msgid "Using Custom Font lib on Front-End"
+#~ msgstr "前端使用自定义字体库"
+
+#~ msgid "Using Google Fonts on Admin"
+#~ msgstr "后台使用谷歌字体"
+
+#~ msgid "Using Custom CDN on Front-End"
+#~ msgstr "前端使用任意CDN加速"
+
+#~ msgid "Using 360 CDN on Front-End"
+#~ msgstr "前端使用360公共资源库"
+
+#~ msgid "Enable zxcvbn-async"
+#~ msgstr "启用Dropbox同步插件"
+
+#~ msgid "Using 360 Fonts on Front-End"
+#~ msgstr "前端使用360字体"
+
+#~ msgid "Upload Avatar"
+#~ msgstr "上传头像"
+
+#~ msgid ""
+#~ "Because of Google was blocked by china or access wordpress.org slow, so "
+#~ "sometimes china network access wordpress website is very slow, using my "
+#~ "plugin will be able to fix this."
+#~ msgstr ""
+#~ "因为中国大陆屏蔽了Google或访问wordpress.org速度慢，所以有时候会导致大陆"
+#~ "的网络访问Wordpress站点速度非常慢，使用本插件可以有效解决这个问题。"
